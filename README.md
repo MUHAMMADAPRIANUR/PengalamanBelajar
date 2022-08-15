@@ -37,6 +37,19 @@ Repository Ini Merupakan Pengalaman Belajarku di Dicoding
 - Kelas Belajar Dasar Git dengan GitHub
   - Belajar Dasar Git dengan GitHub (12 Agustus 2022)
   - Materi yang dipelajari :
-    * Git dan GitHub
-    * Dasar Git
+    * Git dan GitHub (Mengerti apa itu Git dan GitHub serta manfaatnya dalam mengelola data atau kode. (1 Jam 45 Menit)).
+    * Dasar Git (Dasar Git : Mengerti dasar-dasar pengelolaan data atau kode dengan Git, seperti membuat repository, membuat berkas, git commit, dan git checkout.
+      (2 Jam 5 Menit)).
     * Studi Kasus Pengalaman Belajar
+    * Dasar Git (Mengerti dasar-dasar pengelolaan data atau kode dengan Git, seperti membuat repository, membuat berkas, git commit, dan git checkout.
+      (2 Jam 5 Menit)). 
+    * Studi Kasus Pengalaman Belajar (Meningkatkan pengalaman belajar mengenai dasar-dasar Git melalui sebuah studi kasus. (1 Jam 20 Menit)).
+    * Git Branches (Mengerti konsep branching di dalam Git, akan mempelajari juga merging dan menyelesaikan conflict. (2 Jam 10 Menit)).
+    * Kolaborasi dengan Tim (Mengerti bagaimana cara berkolaborasi dengan tim lain pada repository yang sama seperti melakukan forking, squashing
+      changes, dan code reviews. (2 Jam 50 Menit) 
+    * Studi Kasus Kolaborasi dengan Tim (Meningkatkan pengetahuan dalam berkolaborasi dengan tim seperti membuat repository baru, menyalin
+      repository, dan studi kasus menangani pull request pada sebuah repository aktif di GitHub. (1 jam 15 Menit)).
+    * GitHub sebagai Portofolio (Mengerti penggunaan GitHub sebagai portofolio dengan latihan membuat readme yang dapat dimanfaatkan sebagai
+      portofolio dalam berkarier. (1 Jam 20 Menit)
+  - Menyelesaikan Kelas Kelas Belajar Dasar Git dengan GitHub (15 Agustus 2022).
+  - Silahkan lihat Sertifikat saya : [Sertifikat Dicoding Belajar Dasar Git dengan GitHub.pdf](https://github.com/MUHAMMADAPRIANUR/PengalamanBelajar/files/9337921/Sertifikat.Dicoding.Belajar.Dasar.Git.dengan.GitHub.pdf) untuk informasi     lebih lengkap.
