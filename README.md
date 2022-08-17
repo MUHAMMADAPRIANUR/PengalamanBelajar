@@ -53,3 +53,7 @@ Repository Ini Merupakan Pengalaman Belajarku di Dicoding
       portofolio dalam berkarier. (1 Jam 20 Menit)
   - Menyelesaikan Kelas Kelas Belajar Dasar Git dengan GitHub (15 Agustus 2022).
   - Silahkan lihat Sertifikat saya : [Sertifikat Dicoding Belajar Dasar Git dengan GitHub.pdf](https://github.com/MUHAMMADAPRIANUR/PengalamanBelajar/files/9337921/Sertifikat.Dicoding.Belajar.Dasar.Git.dengan.GitHub.pdf) untuk informasi     lebih lengkap.
+
+- Kelas Memulai Pemrograman dengan Kotlin
+  - Belajar Memulai Pemrograman dengan Kotlin (16 Agustus 2022)
+  - 
