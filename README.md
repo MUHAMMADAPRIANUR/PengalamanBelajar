@@ -56,4 +56,29 @@ Repository Ini Merupakan Pengalaman Belajarku di Dicoding
 
 - Kelas Memulai Pemrograman dengan Kotlin
   - Belajar Memulai Pemrograman dengan Kotlin (16 Agustus 2022)
-  - 
+  - Materi yang dipelajari :
+    * Pendahuluan : Memperkenalkan sejarah Kotlin, mengapa harus mempelajari Kotlin, karakteristik Kotlin, dan bagaimana Kotlin berperan dalam
+      pengembangan aplikasi. Akan dibahas juga tentang ekosistem Kotlin. (4 jam 30 menit) 
+    * Persiapan Membangun dan Menjalankan Program Kotlin : Membuat program pertama di Kotlin dan menjalankannya. Selain itu, Anda akan belajar
+      bagaimana menyiapkan dan menginstal beberapa tools seperti IDE dan build tools. Materi ini akan fokus pada penggunaan Gradle sebagai build tools
+      dan menggunakan Kotlin DSL sebagai bahasa pada Gradle. Selain itu, pada materi ini akan membahas tentang struktur Gradle, cara menambahkan
+      dependensi, menambahkan plugin, dan cara mengkonfigurasi plugin. (5 jam) 
+    * Kotlin Fundamental : Memahami tentang teori dasar Kotlin dengan mempelajari konsep dasar dari Kotlin seperti menggunakan tipe data, membuat
+      fungsi dasar, menangani tipe data null, dan membuat String Template. (5 jam) 
+    * Control Flow : Mempelajari perbedaan antara expression dan statement, cara menggunakan enumeration, cara mengontrol aliran program
+      menggunakan ekspresi if dan when, dan bagaimana menerapkan perulangan menggunakan while, do-while, dan break and continue. (4 jam) 
+    * Data Classes dan Collections : Fokus pada bagaimana mengelola data di Kotlin dengan menggunakan data class dan collection. Anda juga akan belajar
+      mengenai perbedaan antara collection yang ada pada Kotlin dan menggunakannya. (4 jam 30 menit) 
+    * Kotlin Functional Programming : Memahami konsep function programing dengan mempelajari extension, lambda, higher-order function, recursion serta
+      melihat contoh penerapannya pada collection operator dan scope function. (7 jam 30 menit)
+    * Kotlin Object-Oriented Programming : Memahami mengenai konsep OOP pada Kotlin, bagaimana membuat sebuah class, properti dan fungsi dari class,
+      dan mensimulasikan problematika dunia nyata dalam paradigma object-oriented programming (OOP). Memahami konsep OOP dengan mempelajari
+      inheritance, abstract class, interface, visibility modifier, dan overloading. (7 jam 20 menit) 
+    * Kotlin Generics : Belajar tentang variance dan cara menggunakan generic untuk membuat kelas yang dapat menerima berbagai jenis tipe data. (2 jam
+      30 menit) 
+    * Berkenalan dengan Coroutines : Belajar dasar dari konsep concurrency seperti process dan thread. Anda juga akan diajarkan tentang permasalahan
+      dalam proses yang bersamaan seperti deadlock, livelock, starvation, dan race condition. Dengan memahami permasalahan tersebut, Anda akan belajar
+      menggunakan Coroutine dalam menyelesaikannya. (5 jam 25 menit)
+  - Menyelesaikan Kelas Memulai Pemrograman dengan Kotlin (23 Agustus 2022).
+  - Silahkan lihat Sertifikat saya :[Sertifikat Dicoding Memulai Pemrograman dengan Kotlin.pdf](https://github.com/MUHAMMADAPRIANUR/PengalamanBelajar/files/9403126/Sertifikat.Dicoding.Memulai.Pemrograman.dengan.Kotlin.pdf)
+
